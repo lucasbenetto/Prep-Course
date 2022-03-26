@@ -1,0 +1,8 @@
+VARIABLES= son cajas en donde se guarda informacion de todo tipo, str, numeros, funcones etc, para luego poder encontrarlas y usar su contenido facilmente
+string= son cadenas de texto, o caracteres. son un tipo de datos
+if es una condicion que debe cumplir el programa al ejecutarse. son parametros o reglas que debe tener en cuenta el programa a fin de ejecutarse. 
+funciones= nos siven para no tener que repetir tanto codigo. se escribe una vez con los parametros que les asignamos y ese codigo (funcion)la podemos invocar
+tantas veces como querramos. Los argumentos son los parametros que va a tener esa funcion que hay que respetar a la hora de invocacarla. datos que necesita la funcion 
+para que se ejecute. y Return es el dato que nos devuelve el programa. el resultado de lo que la funcion esta haciendo
+en aso de que no de la condicion el programa debera hacer otra cosa
+boolenaos= son tipos de datos logicos qeu nos indican si el dato es verdadero o falso
